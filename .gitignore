@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.venv/
+venv/
+
+# Model files (keep local)
+*.h5
+*.keras
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Cache
+*.cache
